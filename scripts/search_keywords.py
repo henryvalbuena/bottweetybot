@@ -1,8 +1,8 @@
 pairings = [
     ["ps5", "stock"],
     ["ps5", "available"],
-    ["playstation", "available"],
-    ["playstation", "stock"],
+    ["playstation 5", "available"],
+    ["playstation 5", "stock"],
 ]
 
 
