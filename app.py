@@ -2,7 +2,6 @@ from scripts.get_tweets import get_tweets
 from scripts.search_keywords import is_in_stock
 from scripts.send_discord_alert import send_alert
 
-
 users = [
     "https://twitter.com/EBGamesCanada",
     "https://twitter.com/BBYC_Gamers",
