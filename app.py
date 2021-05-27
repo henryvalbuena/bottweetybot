@@ -5,6 +5,7 @@ from scripts.send_discord_alert import send_alert
 users = [
     "https://twitter.com/EBGamesCanada",
     "https://twitter.com/BBYC_Gamers",
+    "https://twitter.com/WalmartCAGaming",
 ]
 
 for user in users:

@@ -13,7 +13,7 @@ RE_3 = "\\n[\w ]+\\n"
 
 def extract_tweet(tweet):
     a = re.split(RE_1, tweet)[0]
-    b = re.split(RE_2, a)[1]
+    b = re.split(RE_2, a, maxsplit=1)[1]
 
     return re.split(RE_3, b)[1]
 
